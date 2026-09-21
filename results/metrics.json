@@ -1,0 +1,13 @@
+{
+  "dialogues": 10437,
+  "turns": 143044,
+  "mean_turns": 13.71,
+  "domains": 8,
+  "multi_domain_dialogues": 8172,
+  "multi_domain_rate": 0.783,
+  "tool_domain_acts": 144047,
+  "state_updates": 195066,
+  "domain_handoffs": 32433,
+  "no_booking_turns": 1320,
+  "schema_failures": 0
+}
